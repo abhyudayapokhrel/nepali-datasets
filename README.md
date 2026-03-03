@@ -236,6 +236,9 @@ If any content belongs to you, please submit a PR or contact us to request remov
 
 ---
 
+## Nepali MNIST
+- ** Nepali Handwritten Digits** - https://www.kaggle.com/datasets/ujjwalpaudel/nepali-handwritten-digits
+
 
 ## Contributing
 ## 🤝 Contributing
