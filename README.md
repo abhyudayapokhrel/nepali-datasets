@@ -1,22 +1,55 @@
 ## Welcome to the Largest Nepali Datasets Collection
 
-This is the **most comprehensive repository of Nepali datasets** available on GitHub. 
-We aggregate and curate machine learning datasets for the Nepali language from 
-multiple open sources, making it easy to find exactly what you need.
+This is the **most comprehensive repository of Nepali datasets** available on GitHub. We aggregate and curate machine learning datasets for the Nepali language from multiple open sources.
 
-**Note:** <i>This repository aggregates publicly available datasets from open sources. 
-If any content belongs to you, please submit a PR or contact us to request removal.
-</i>
+> **Note:** This repository aggregates publicly available datasets from open sources. If any content belongs to you, please submit a PR or contact us to request removal.
 
-### What You'll Find Here
+## 📋 Table of Contents
 
-- **Nepali NLP datasets** - News, Wikipedia, sentiment analysis, translation corpora
-- **Nepali speech datasets** - ASR training data, text-to-speech collections
-- **Nepali image datasets** - Handwritten characters, OCR, currency recognition
-- **Nepali geospatial data** - Maps, coordinates, geographic information
-- **Machine learning datasets for Nepal** - Stock prices, weather, disaster data
-- **Nepali language research datasets** - Academic corpora and linguistic resources
-- **Nepali literature dataset** - Poem, Stories, and misc.
+1. [Overview](#overview)
+2. [Text & NLP Datasets](#text--nlp-datasets)
+   - [News & General Text Corpus](#news--general-text-corpus)
+   - [Wikipedia & Reference](#wikipedia--reference)
+   - [Large Scale Text Corpora](#large-scale-text-corpora)
+   - [Machine Translation & Parallel Corpora](#machine-translation--parallel-corpora)
+   - [Sentiment Analysis](#sentiment-analysis)
+   - [Named Entity Recognition (NER)](#named-entity-recognition-ner)
+   - [Text Summarization](#text-summarization)
+   - [Literary & Cultural Text](#literary--cultural-text)
+   - [Specialized Text Data](#specialized-text-data)
+3. [Audio & Speech Datasets](#audio--speech-datasets)
+   - [Text-to-Speech](#text-to-speech)
+   - [Automatic Speech Recognition (ASR)](#automatic-speech-recognition-asr)
+   - [Character Speech](#character-speech)
+   - [Speech Embeddings](#speech-embeddings)
+4. [Image Datasets](#image-datasets)
+   - [Handwritten Characters & Recognition](#handwritten-characters--recognition)
+   - [License Plate Recognition](#license-plate-recognition)
+   - [General Images](#general-images)
+   - [Currency Recognition](#currency-recognition)
+5. [Geospatial & Location Datasets](#geospatial--location-datasets)
+6. [Time Series & Real-Time Data](#time-series--real-time-data)
+   - [Air Quality](#air-quality)
+   - [Weather](#weather)
+   - [Hydrology & Environment](#hydrology--environment)
+   - [Market Data](#market-data)
+7. [Financial & Economic Datasets](#financial--economic-datasets)
+   - [Stock Market](#stock-market)
+   - [Currency Exchange](#currency-exchange)
+8. [Specialized Datasets](#specialized-datasets)
+   - [Disaster & Emergency](#disaster--emergency)
+   - [Health](#health)
+9. [Embedding & Representation Learning](#embedding--representation-learning)
+   - [Word Embeddings](#word-embeddings)
+10. [Public Data Sources](#public-data-sources)
+11. [Related NLP Research & Tools](#related-nlp-research--tools)
+12. [Nepali Literature Dataset](#nepali-literature-dataset)
+13. [Nepali MNIST](#nepali-mnist)
+14. [Contributing](#contributing)
+
+---
+
+
 
 ## Text & NLP Datasets
 
